@@ -8,3 +8,4 @@ for sublist in nested_list:
         flat_list.append(item)
 print(f"Flattened list: {flat_list}")
 
+
