@@ -6,3 +6,4 @@ numbers.sort()
 second_largest = numbers[-2]
 print(f"Second largest: {second_largest}")
 
+
